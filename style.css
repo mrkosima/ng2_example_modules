@@ -1,0 +1,42 @@
+input {
+    color: #333;
+}
+
+.username {
+    font-style: italic;
+}
+
+.card {
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    box-sizing: border-box;
+}
+
+.bg-green {
+    color: #fff;
+    background-color: #5cb85c;
+}
+
+.bg-orange {
+    color: #fff;
+    background-color: #f0ad4e;
+}
+
+.bg-blue {
+    color: #fff;
+    background-color: #428bca;
+}
+
+.grapefruit {
+    background-image: url('./assets/grapefruit.svg');
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.lime {
+    background-image: url('./assets/lime.svg');
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
